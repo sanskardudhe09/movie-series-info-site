@@ -1,0 +1,16 @@
+input{
+    height: 40px;
+    width: 190px;
+    margin: 30px;
+    padding: 10px;
+    background-color: rgb(142, 173, 252);
+}
+button{
+    width: 120px;
+    height: 30px;
+}
+label{
+    color: whitesmoke;
+    width: 120px;
+    height: 30px;
+}

@@ -1,0 +1,60 @@
+.movie-detail{
+    height: 85vh;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding: 40px 20px;
+    font-weight: 400;
+}
+.movie-title{
+    color: white;
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.movie-rating{
+    display: flex;
+    color: rgb(42, 142, 241);
+    padding: 20px;
+    span{
+        margin-left: 20px;
+        margin-top: 20px;
+        font-size: large;
+    }
+}
+.movie-plot{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-left: 20px;
+    line-height: 1.5rem;
+    letter-spacing: 1.2px;
+}
+.movie-info{
+    margin-top: 20px;
+    font-size: 22px;
+    font-weight: 400;
+}
+.movie-info > div span:first-child{ 
+        margin-left: 20px;
+        margin-top: 20px;
+        display: inline-block;
+        color: whitesmoke;
+}
+
+.movie-info > div span{
+    color:rgb(77, 193, 246);
+}
+.fa-star{
+    color: #ff9e00;
+}
+.fa-thumbs-up{
+    color: whitesmoke;
+}
+.fa-film{
+    color: rgb(221, 246, 154);
+}
+.fa-calendar{
+    color: rgb(244, 160, 87);
+}

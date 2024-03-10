@@ -1,0 +1,26 @@
+.movie-wrapper{
+    padding: 30px;
+}
+
+.movie-list{
+    margin: 10px;
+}
+.movie-list h2{
+    color: whitesmoke;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.movie-container{
+    padding-left: 30px;
+    display: grid;
+    grid-template-columns:repeat(auto-fill, 330px);
+    gap: 10px;
+}
+.show-list{
+    margin: 10px;
+}
+.show-list h2{
+    color: whitesmoke;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
